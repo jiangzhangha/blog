@@ -112,5 +112,4 @@ backup:
   type: git
   theme: next
   message: Back up my blog
-  repository:
-    github: git@github.com:jiangzhangha/blog.git,backup
+  repo: git@github.com:jiangzhangha/blog.git,backup
