@@ -111,5 +111,5 @@ search:
 backup:
   type: git
   theme: next
-  message: Back up my blog
-  repo: git@github.com:jiangzhangha/blog.git,backup
+  repository: 
+	github: git@github.com:jiangzhangha/blog.git,master
