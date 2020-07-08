@@ -107,3 +107,10 @@ search:
   field: post
   format: html
   limit: 10000
+  
+backup:
+  type: git
+  theme: next
+  message: Back up my blog
+  repository:
+    github: git@github.com:jiangzhangha/blog.git,backup
