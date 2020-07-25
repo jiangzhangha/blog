@@ -2,6 +2,7 @@
 title: Git使用方法梳理总结
 date: 2020-07-08 21:54:47
 categories: git
+index_img: /img/articles/git.jpg
 tags:
 	- git
 ---

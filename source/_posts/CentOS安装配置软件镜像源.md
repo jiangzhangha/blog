@@ -2,6 +2,7 @@
 title: CentOS安装配置软件镜像源
 date: 2020-07-07 20:38:06
 categories: Linux知识
+index_img: /img/articles/centos.jpg
 tags:
 	- CentOS
 	- 安装配置

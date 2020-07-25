@@ -2,6 +2,7 @@
 title: 数据结构与算法之链表（C语言版）
 date: 2020-07-18 19:46:45
 categories: 数据结构与算法
+index_img: /img/articles/algo3.jpg
 tags:
 	- 数据结构
 	- 算法

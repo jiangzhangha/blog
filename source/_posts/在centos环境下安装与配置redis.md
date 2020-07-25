@@ -2,6 +2,7 @@
 title: 在CentOS环境下安装配置redis服务
 date: 2020-07-08 09:20:45
 categories: redis
+index_img: /img/articles/redis.jpg
 tags:
 	- CentOS
 	- 安装配置

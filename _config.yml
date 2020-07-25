@@ -8,7 +8,7 @@ subtitle: ''
 description: '路漫漫其修远兮'
 keywords:
 author: Jamza
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -110,6 +110,6 @@ search:
   
 backup:
   type: git
-  theme: next
+  theme: fluid
   repository: 
 	github: git@github.com:jiangzhangha/blog.git,master

@@ -2,6 +2,7 @@
 title: HTTP响应Chunked格式编码分析
 date: 2020-07-08 13:55:45
 categories: HTTP
+index_img: /img/articles/http.jpg
 tags:
 	- HTTP
 	- Chunked

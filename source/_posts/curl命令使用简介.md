@@ -2,6 +2,7 @@
 title: curl命令使用简介
 date: 2020-07-07 20:38:06
 categories: Linux知识
+index_img: /img/articles/linux.jpg
 tags:
 	- Linux
 	- 命令工具

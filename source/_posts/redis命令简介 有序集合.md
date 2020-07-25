@@ -2,6 +2,7 @@
 title: redis命令简介 有序集合
 date: 2020-07-08 13:43:45
 categories: redis
+index_img: /img/articles/redis.jpg
 tags:
 	- redis
 	- 有序集合

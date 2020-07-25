@@ -2,6 +2,7 @@
 title: Vim的基本配置
 date: 2020-07-08 14:00:00
 categories: vim
+index_img: /img/articles/vim.jpg
 tags:
 	- vim
 	- 配置

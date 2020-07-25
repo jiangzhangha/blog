@@ -2,6 +2,7 @@
 title: 以Docker方式本地运行redis
 date: 2020-07-08 09:12:45
 categories: redis
+index_img: /img/articles/redis.jpg
 tags:
 	- redis
 	- Docker

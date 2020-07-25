@@ -2,6 +2,7 @@
 title: CentOS安装配置Docker服务
 date: 2020-07-07 21:43:45
 categories: Linux知识
+index_img: /img/articles/docker.jpg
 tags:
 	- CentOS
 	- 安装配置

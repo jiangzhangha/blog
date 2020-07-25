@@ -2,6 +2,7 @@
 title: 直接路由方式实现跨主机Docker通信
 date: 2020-07-08 13:41:45
 categories: docker
+index_img: /img/articles/docker.jpg
 tags:
 	- docker
 	- 跨主机通信

@@ -2,6 +2,7 @@
 title: redis命令简介 位图
 date: 2020-07-08 13:40:45
 categories: redis
+index_img: /img/articles/redis.jpg
 tags:
 	- redis
 	- 位图

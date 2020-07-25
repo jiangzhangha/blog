@@ -2,6 +2,7 @@
 title: redis命令简介 散列
 date: 2020-07-08 13:30:45
 categories: redis
+index_img: /img/articles/redis.jpg
 tags:
 	- redis
 	- 散列

@@ -2,6 +2,7 @@
 title: redis数据库的C接口操作简介
 date: 2020-07-08 09:21:45
 categories: redis
+index_img: /img/articles/redis.jpg
 tags:
 	- redis
 	- c

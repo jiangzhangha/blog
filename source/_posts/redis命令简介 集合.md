@@ -2,6 +2,8 @@
 title: redis命令简介 集合
 date: 2020-07-08 09:25:12
 categories: redis
+index_img: /img/articles/redis.jpg
+math: true
 tags:
 	- redis
 	- 命令

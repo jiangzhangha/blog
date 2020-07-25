@@ -2,6 +2,8 @@
 title: 数据结构与算法之集合（C语言版）
 date: 2020-07-19 15:17:15
 categories: 数据结构与算法
+index_img: /img/articles/algo3.jpg
+math: true
 tags:
 	- 数据结构
 	- 算法
