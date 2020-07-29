@@ -479,4 +479,10 @@ links:
       link: 'https://github.com/',
       image: '/img/links/github.jpg'
 	}
+    - {
+	  title: 'Linux man page',
+      intro: 'Linux man手册',
+      link: 'https://www.kernel.org/doc/man-pages/',
+      image: '/img/links/Linux.png'
+	}
 	
